@@ -55,9 +55,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contributors
 
-- @SakshiFadnavis2003
-- @KhushiBajpai2003
-- @shrutiijainn11
+- [@SakshiFadnavis2003](https://github.com/SakshiFadnavis2003)
+- [@KhushiBajpai2003](https://github.com/KhushiBajpai2003)
+- [@shrutiijainn11](https://github.com/shrutiijainn11)
 
 ## Acknowledgements
 
